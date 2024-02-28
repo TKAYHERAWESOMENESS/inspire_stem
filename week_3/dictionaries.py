@@ -34,3 +34,20 @@ for key,value in My_laptop .items():
 
 siz_laptop = My_laptop.copy()
 print(siz_laptop)
+
+
+
+
+
+my_car = {"make" : "ferrari" , "type" :  "urus" , "colour" : "purple" ,"year" : "2024"}
+print(my_car["make"])
+print(my_car["type"])
+print(my_car["colour"])
+print(my_car["year"])
+
+
+bro_car= my_car.copy()
+print(bro_car)
+
+
+

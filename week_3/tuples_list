@@ -9,3 +9,11 @@ print(cities)
 #cities.append("Cairo") #  this cannot run as this list is immutable
 for city in cities:
     print(city)
+
+
+
+hobbies = ("singing" , "swimming" , "cooking" , "travelling" , "watching")
+print (hobbies)
+
+for hobby in hobbies:
+    print(hobby)
